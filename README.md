@@ -47,3 +47,4 @@ DNS should point to Vercel instead of doing URL forwarding:
 
 - Apex `saiii.in`: `A` record to `76.76.21.21`
 - `www.saiii.in`: `CNAME` to the target shown by Vercel for your project
+ 
