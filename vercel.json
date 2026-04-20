@@ -60,17 +60,6 @@
       "source": "/mail",
       "destination": "mailto:sairam.maruri@gmail.com",
       "permanent": false
-    },
-    {
-      "source": "/:path(.*)",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.saiii.in"
-        }
-      ],
-      "destination": "https://saiii.in/:path",
-      "permanent": true
     }
   ],
   "rewrites": [
